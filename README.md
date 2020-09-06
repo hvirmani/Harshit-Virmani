@@ -21,7 +21,7 @@ I am Harshit Virmani 😃. I am 2nd year student doing my B.Tech from Chitkara U
  
  ## Hello World!! 🤔
 - 😄 Pronouns: **He/His**
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs/NodeJS**
 - ⚡ Fun fact: I watch **TMKOC** 🤪
 <p align="center" margin="20px">
 <img src="https://github-readme-stats.vercel.app/api?username=hvirmani&&count_private=true&hide=issues,stars&show_icons=true" width="75%" height="50%"/>
