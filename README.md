@@ -5,7 +5,7 @@
 
 
 I am Harshit Virmani 😃. I am 2nd year student doing my B.Tech from Chitkara University, Punjab..
-
+<!--
 ## ⚡ Technologies
 <p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -17,7 +17,7 @@ I am Harshit Virmani 😃. I am 2nd year student doing my B.Tech from Chitkara U
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
- </p>
+ </p>-->
  
  ## Hello World!! 🤔
 - 😄 Pronouns: **He/His**
