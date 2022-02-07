@@ -4,12 +4,12 @@
 
 I'm a 3rd year student 🎓 from Chitkara University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and implement them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.<br/>
-🚀 &nbsp; I’m currently learning Full Stack Development.<br/>
+🛠 &nbsp; I’m currently working with MERN stack.<br/>
+🚀 &nbsp; I’m currently learning Cloud Computing and DSA.<br/>
 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hvirmani).</br>
 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.</br>
-📫 &nbsp; How to reach me: officialhvirmani@gmail.com.
-
+📫 &nbsp; How to reach me: officialhvirmani@gmail.com.<br/>
+🛠 &nbsp; [Urban Cafe](https://urban-cafe.herokuapp.com) in progress.
 
 ### Languages and Tools:
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c"></code>
