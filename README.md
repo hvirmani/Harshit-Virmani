@@ -9,7 +9,7 @@ I'm a 3rd year student 🎓 from Chitkara University 🏛. I'm a passionate lear
 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hvirmani).</br>
 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.</br>
 📫 &nbsp; How to reach me: officialhvirmani@gmail.com.<br/>
-🛠 &nbsp; [Urban Cafe](https://urban-cafe.herokuapp.com) in progress.
+🛠 &nbsp; [Urban Cafe](https://urban-cafe.herokuapp.com),[Translator](https://naughty-wescoff-593f78.netlify.app/),[Fire Chat](https://compassionate-carson-8f9d15.netlify.app/) in progress.
 
 ### Languages and Tools:
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c"></code>
